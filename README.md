@@ -80,24 +80,29 @@
 <h2 style="text-align: center;">Screenshots</h2>
 <p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
 
-<h2>Screenshots</h2>
-<p>Here are a few key screens from the TruConnect design:</p>
-<center>
+<h2 style="text-align: center;">Screenshots</h2>
+<p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
+
 <!-- Student Dashboard -->
-<h4>Student Dashboard</h4>
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
-<hr>
+<div style="text-align: center; margin-bottom: 30px;">
+    <h4>Student Dashboard</h4>
+    <img src="Screen Shot.png" alt="Student Dashboard" width="400" style="display: block; margin: 0 auto;">
+    <hr style="width: 80%; margin: 20px auto;">
+</div>
 
 <!-- Parent Dashboard -->
-<h4>Parent Dashboard</h4>
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Parent Dashboard" width="400">
-<hr>
+<div style="text-align: center; margin-bottom: 30px;">
+    <h4>Parent Dashboard</h4>
+    <img src="path-to-your-image.png" alt="Parent Dashboard" width="400" style="display: block; margin: 0 auto;">
+    <hr style="width: 80%; margin: 20px auto;">
+</div>
 
 <!-- Teacher Dashboard -->
-<h4>Teacher Dashboard</h4>
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Teacher Dashboard" width="400">
-<hr>
-</center>
+<div style="text-align: center; margin-bottom: 30px;">
+    <h4>Teacher Dashboard</h4>
+    <img src="path-to-your-image.png" alt="Teacher Dashboard" width="400" style="display: block; margin: 0 auto;">
+    <hr style="width: 80%; margin: 20px auto;">
+</div>
 
 <h2>Technology Used</h2>
 <p>While this repository contains only the design (Figma), here are the key technologies we envision using for the full implementation of TruConnect:</p>
