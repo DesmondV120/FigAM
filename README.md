@@ -37,7 +37,7 @@
 </ul>
 
 <h2>Figma Design</h2>
-<p>The full Figma design of TruConnect is available <a href="INSERT_FIGMA_URL" target="_blank">here</a>.</p>
+<p>The full Figma design of TruConnect is available <a href="https://www.figma.com/proto/BvCs7QJWMcnQIyMCaLFYIa/TruConnect-Prototype-Design?node-id=0-1&t=UbnmSjRvz97AZaF3-1" target="_blank">here</a>.</p>
 <p>Feel free to explore the design, which includes detailed wireframes, user flows, and the user interface for all three user types: students, parents, and teachers.</p>
 
 <h2>User Flow</h2>
@@ -110,7 +110,7 @@
 
 <h2>How to Use</h2>
 <ol>
-    <li><strong>View the Figma Design:</strong> To explore the full wireframe design, follow the <a href="INSERT_FIGMA_URL" target="_blank">Figma link</a>.</li>
+    <li><strong>View the Figma Design:</strong> To explore the full wireframe design, follow the <a href="https://www.figma.com/design/BvCs7QJWMcnQIyMCaLFYIa/TruConnect-Prototype-Design?node-id=0-1&t=UbnmSjRvz97AZaF3-1" target="_blank">Figma link</a>.</li>
     <li><strong>Feedback & Collaboration:</strong> If you have suggestions or want to contribute, feel free to open an issue here on GitHub, or leave feedback on Figma.</li>
 </ol>
 
