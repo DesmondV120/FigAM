@@ -7,7 +7,7 @@
 <p>How might we use technology to elevate the educational system in large metro cities in the Northeast?</p>
 
 <h3>Our Solution:</h3>
-<p>TruConnect is a platform that provides tailored recommendations for students, helping them find extracurricular activities, track progress, and access career guidance. It fosters collaboration between students, parents, and teachers, ensuring that everyone has the tools and information they need to succeed.</p>
+<p>TruConnect is a platform that provides tailored recommendations for students, helping them find extracurricular activities, track progress, and access career guidance. It promotes collaboration between students, parents, and teachers, ensuring that everyone has the tools and information they need to succeed.</p>
 
 <h2>Key Features</h2>
 
@@ -37,8 +37,8 @@
 </ul>
 
 <h2>Figma Design</h2>
-<p>The full Figma design of TruConnect is available <a href="https://www.figma.com/proto/BvCs7QJWMcnQIyMCaLFYIa/TruConnect-Prototype-Design?node-id=0-1&t=UbnmSjRvz97AZaF3-1" target="_blank">here</a>.</p>
-<p>Feel free to explore the design, which includes detailed wireframes, user flows, and the user interface for all three user types: students, parents, and teachers.</p>
+<p>The full Figma design of TruConnect is available <a href="https://www.figma.com/proto/BvCs7QJWMcnQIyMCaLFYIa/TruConnect-Prototype-Design?node-id=0-1&t=UbnmSjRvz97AZaF3-1" target="_blank">here (let the elements load in)</a>.</p>
+<p>Feel free to explore the design, which includes the user interface for all three user types: students, parents, and teachers.</p>
 
 <h2>User Flow</h2>
 
