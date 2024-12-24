@@ -13,19 +13,27 @@
 
 <h3>For Students:</h3>
 <ul>
-    <li><strong>Personalized Dashboard:</strong> Students can easily track their courses, assignments, and explore available clubs in one convenient location.</li>
-    <li><strong>AI Career & Academic Guidance:</strong> The “Ask AI” feature provides personalized academic and career recommendations based on student interests and goals.</li>
-    <li><strong>Clubs & Extracurriculars:</strong> Students can view, join, and track clubs and events, reducing the struggle of finding relevant activities.</li>
+    <li><strong>Personalized Dashboard:</strong> TruConnect's dashboard provides students with a single location to track their courses, assignments, and extracurricular activities. This central hub helps students stay organized and ensures they never miss important deadlines or opportunities.</li>
+    <li><strong>AI Career & Academic Guidance:</strong> The “Ask AI” feature goes beyond just answering questions—it's an intelligent mentor. By analyzing the student's academic progress, interests, and goals, the AI offers personalized recommendations for academic courses, potential career paths, and scholarships, empowering students to take charge of their future.</li>
+    <li><strong>Clubs & Extracurriculars:</strong> TruConnect helps students easily explore, join, and manage clubs and extracurricular activities. Whether it’s sports, music, robotics, or art, students can browse a variety of activities that match their interests, with event schedules, deadlines, and sign-up processes all in one place. This reduces the frustration of trying to find information and ensures they can make the most of school life.</li>
+    <li><strong>Engagement & Social Networking:</strong> The app allows students to connect with peers who share similar interests, making it easier to form study groups, collaborate on projects, and find social events within the school community.</li>
 </ul>
 
 <h3>For Parents:</h3>
 <ul>
-    <li><strong>Engagement & Support:</strong> Parents can view their child's performance, upcoming events, and key announcements, helping them stay informed and actively support their child’s success.</li>
+    <li><strong>Engagement & Support:</strong> TruConnect allows parents to stay fully involved in their child's academic journey. They can track their child's performance in real time, view grades and upcoming assignments, and even receive notifications about important events and deadlines. This means parents can provide timely support when their child needs help or encouragement.</li>
+    <li><strong>Comprehensive Progress Reports:</strong> Parents get a detailed, easily understandable report of their child's progress, including grades, attendance, and involvement in extracurricular activities. This helps foster meaningful conversations between parents and students about their education and helps parents identify areas where additional support might be needed.</li>
+    <li><strong>Event & Announcement Notifications:</strong> TruConnect keeps parents in the loop with automatic updates on school events, meetings, and announcements. This ensures they are always informed about what's happening in the school, from parent-teacher conferences to club events, without having to hunt for the information.</li>
+    <li><strong>Parent-Teacher Communication:</strong> TruConnect strengthens the relationship between parents and teachers by providing a simple way for parents to reach out directly to teachers, discuss progress, or address concerns. With integrated messaging, it's easy for both parties to stay connected and work together for the student's success.</li>
 </ul>
 
 <h3>For Teachers:</h3>
 <ul>
-    <li><strong>Class Management:</strong> Teachers can monitor class progress, track student stats, and manage courses, all in one integrated dashboard.</li>
+    <li><strong>Class Management:</strong> Teachers can manage all aspects of their classes through TruConnect, from assigning homework and grading to tracking student progress. The dashboard offers a comprehensive overview of class performance, enabling teachers to identify struggling students, monitor trends, and adapt lessons accordingly.</li>
+    <li><strong>Student Analytics:</strong> The app provides teachers with powerful analytics on individual and class-wide performance. They can track metrics like test scores, participation, and homework completion, helping them make data-driven decisions to enhance their teaching strategies and support students effectively.</li>
+    <li><strong>Seamless Course Management:</strong> Teachers can easily organize and share course materials, assignments, and schedules with their students. The platform eliminates the need for paper-based handouts and provides a digital repository for all classroom content, making it easier for both teachers and students to access resources at any time.</li>
+    <li><strong>Streamlined Communication with Students:</strong> With TruConnect, teachers can send messages, post assignments, and provide instant feedback to students. This direct communication fosters better engagement in the learning process and keeps students on track with their assignments and schoolwork.</li>
+    <li><strong>Professional Development Opportunities:</strong> TruConnect also offers teachers resources for professional growth, including webinars, workshops, and events tailored to their teaching needs. Teachers can continue to develop their skills while staying engaged with the latest educational trends.</li>
 </ul>
 
 <h2>Figma Design</h2>
