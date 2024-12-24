@@ -79,9 +79,21 @@
 
 <h2>Screenshots</h2>
 <p>Here are a few key screens from the TruConnect design:</p>
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
+
+<!-- Student Dashboard -->
+<h4>Student Dashboard</h4>
+<img src="Screen Shot.png" alt="Student Dashboard" width="400">
+<hr>
+
+<!-- Parent Dashboard -->
+<h4>Parent Dashboard</h4>
+<img src="path-to-your-image.png" alt="Parent Dashboard" width="400">
+<hr>
+
+<!-- Teacher Dashboard -->
+<h4>Teacher Dashboard</h4>
+<img src="path-to-your-image.png" alt="Teacher Dashboard" width="400">
+<hr>
 
 <h2>Technology Used</h2>
 <p>While this repository contains only the design (Figma), here are the key technologies we envision using for the full implementation of TruConnect:</p>
