@@ -79,7 +79,7 @@
 
 <h2>Screenshots</h2>
 <p>Here are a few key screens from the TruConnect design:</p>
-<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard">
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
 <img src="path-to-your-image.png" alt="Parent Dashboard">
 <img src="path-to-your-image.png" alt="Teacher Dashboard">
 
