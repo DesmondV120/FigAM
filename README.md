@@ -85,17 +85,17 @@
 <center>
 <!-- Student Dashboard -->
 <h4>Student Dashboard</h4>
-<img src="Screen Shot.png" alt="Student Dashboard" width="400">
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
 <hr>
 
 <!-- Parent Dashboard -->
 <h4>Parent Dashboard</h4>
-<img src="path-to-your-image.png" alt="Parent Dashboard" width="400">
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Parent Dashboard" width="400">
 <hr>
 
 <!-- Teacher Dashboard -->
 <h4>Teacher Dashboard</h4>
-<img src="path-to-your-image.png" alt="Teacher Dashboard" width="400">
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Teacher Dashboard" width="400">
 <hr>
 </center>
 
