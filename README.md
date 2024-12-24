@@ -1,4 +1,4 @@
-<h1>TruConnect - Elevating Education in Metro Cities</h1>
+<h1>TruConnect - Elevating Education in Metro Cities (Accenture Innovation Challenge)</h1>
 
 <h2>Overview</h2>
 <p><strong>TruConnect</strong> is an app designed to revolutionize the way students, parents, and teachers interact with education. By offering personalized recommendations, streamlined communication, and a centralized dashboard, TruConnect empowers students to discover opportunities that align with their interests, while keeping parents and teachers connected to a student's progress.</p>
@@ -103,7 +103,7 @@
 
 <h2>Acknowledgments</h2>
 <ul>
-    <li><strong>Accenture Innovation Challenge:</strong> First place winner for our TruConnect app solution.</li>
+    <li><strong>Accenture Innovation Challenge:</strong> First place winner for TruConnect app solution.</li>
     <li><strong>Figma:</strong> For providing an excellent tool for wireframing and prototyping.</li>
     <li><strong>Mentors and Collaborators:</strong> Thanks to everyone who provided feedback during the development of this app.</li>
 </ul>
