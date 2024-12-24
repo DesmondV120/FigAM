@@ -94,7 +94,7 @@
 
 <h2>How to Use</h2>
 <ol>
-    <li><strong>View the Figma Design:</strong> To explore the full design, follow the <a href="INSERT_FIGMA_URL" target="_blank">Figma link</a>.</li>
+    <li><strong>View the Figma Design:</strong> To explore the full wireframe design, follow the <a href="INSERT_FIGMA_URL" target="_blank">Figma link</a>.</li>
     <li><strong>Feedback & Collaboration:</strong> If you have suggestions or want to contribute, feel free to open an issue here on GitHub, or leave feedback on Figma.</li>
 </ol>
 
