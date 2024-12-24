@@ -98,9 +98,6 @@
     <li><strong>Feedback & Collaboration:</strong> If you have suggestions or want to contribute, feel free to open an issue here on GitHub, or leave feedback on Figma.</li>
 </ol>
 
-<h2>License</h2>
-<p>This design is licensed under the MIT License. You are free to use, adapt, or build upon this design with appropriate credit.</p>
-
 <h2>Acknowledgments</h2>
 <ul>
     <li><strong>Accenture Innovation Challenge:</strong> First place winner for TruConnect app solution.</li>
