@@ -69,43 +69,40 @@
 <h2>Design Process</h2>
 
 <h3>Research & Problem Discovery</h3>
-<p>We began by researching the pain points in the current educational system in metro cities, focusing on communication gaps and the difficulty students have in discovering opportunities like clubs, extracurricular activities, and career guidance.</p>
+<p>The project was began by researching the pain points in the current educational system in metro cities, focusing on communication gaps and the difficulty students have in discovering opportunities like clubs, extracurricular activities, and career guidance.</p>
 
 <h3>Wireframing & Prototyping</h3>
-<p>Using Figma, we designed user flows for three distinct user types—students, parents, and teachers—and created wireframes for each stage of the user journey. We iterated based on feedback and user testing.</p>
+<p>The Figma design incoporates user flows for three distinct user types—students, parents, and teachers—and created wireframes for each stage of the user journey. The design was iterated based on feedback and user testing.</p>
 
 <h3>User Testing & Feedback</h3>
-<p>After creating the initial designs, we conducted testing with students, parents, and teachers to ensure the app’s features addressed their needs and provided a seamless experience.</p>
+<p>After creating the initial designs, testing was conducted with students, parents, and teachers to ensure the app’s features addressed their needs and provided a seamless experience.</p>
 
 <h2 style="text-align: center;">Screenshots</h2>
 <p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
 
 <h2 style="text-align: center;">Screenshots</h2>
 <p style="text-align: center;">Here are a few key screens from the TruConnect design:</p>
+
+<h2>Screenshots</h2>
+<p>Here are a few key screens from the TruConnect design:</p>
 
 <!-- Student Dashboard -->
-<div style="text-align: center; margin-bottom: 30px;">
-    <h4>Student Dashboard</h4>
-    <img src="Screen Shot.png" alt="Student Dashboard" width="400" style="display: block; margin: 0 auto;">
-    <hr style="width: 80%; margin: 20px auto;">
-</div>
+<h4>Student Dashboard</h4>
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Student Dashboard" width="400">
+<hr>
 
 <!-- Parent Dashboard -->
-<div style="text-align: center; margin-bottom: 30px;">
-    <h4>Parent Dashboard</h4>
-    <img src="path-to-your-image.png" alt="Parent Dashboard" width="400" style="display: block; margin: 0 auto;">
-    <hr style="width: 80%; margin: 20px auto;">
-</div>
+<h4>Parent Dashboard</h4>
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Parent Dashboard" width="400">
+<hr>
 
 <!-- Teacher Dashboard -->
-<div style="text-align: center; margin-bottom: 30px;">
-    <h4>Teacher Dashboard</h4>
-    <img src="path-to-your-image.png" alt="Teacher Dashboard" width="400" style="display: block; margin: 0 auto;">
-    <hr style="width: 80%; margin: 20px auto;">
-</div>
+<h4>Teacher Dashboard</h4>
+<img src="Screen Shot 2024-12-24 at 12.45.02 PM.png" alt="Teacher Dashboard" width="400">
+<hr>
 
 <h2>Technology Used</h2>
-<p>While this repository contains only the design (Figma), here are the key technologies we envision using for the full implementation of TruConnect:</p>
+<p>While this repository contains only the design (Figma), here are the key technologies to use for the full implementation of TruConnect:</p>
 <ul>
     <li><strong>Frontend:</strong> React, React Native (for mobile app)</li>
     <li><strong>Backend:</strong> Node.js, Express</li>
